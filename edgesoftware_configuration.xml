@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<manifest>
+  <main label="Smart_Edge_Open_Developer_Experience_Kits" version="3.0.0" id="627a54e1423d3f002c960717" packageId="7f2d5954-a3ec-42dc-832e-90ba104427ea" osId="611ca82a06a1d2002c7df0d4"/>
+  <default path="installation/common" esb_install="true" label="esb_common" id="6022bd8ccc7449002afdbedd"/>
+  <project path="installation/src" id="627a5326af4093002b29b287" version="3.0.0" label="Smart_Edge_Open_Developer_Experience_Kits" esb_install="true"/>
+</manifest>
