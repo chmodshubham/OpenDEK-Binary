@@ -1,7 +1,9 @@
-Intel® Smart Edge Open Developer Experience Kit provides customized infrastructure deployments for common network and on-premises edge use cases. Combining Intel cloud-native technologies, wireless networking, and high-performance compute, experience kits let you deliver AI, video, and other services optimized for performance at the edge.
+# Open-Developer-Experience-Kit
+
+IntelÂ® Smart Edge Open Developer Experience Kit provides customized infrastructure deployments for common network and on-premises edge use cases. Combining Intel cloud-native technologies, wireless networking, and high-performance compute, experience kits let you deliver AI, video, and other services optimized for performance at the edge.
 
 Get Started: 
-To learn how to install and use Intel® Smart Edge Open Developer Experience Kit, open the Get Started Guide in a browser: 
+To learn how to install and use IntelÂ® Smart Edge Open Developer Experience Kit, open the Get Started Guide in a browser: 
 https://www.intel.com/content/www/us/en/developer/articles/reference-implementation/smart-edge-open-developer-experience-kit.html
 
 
